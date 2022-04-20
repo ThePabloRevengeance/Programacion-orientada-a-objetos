@@ -1,0 +1,11 @@
+<html>
+<head>
+<title> Acerca De </title>
+<body background = "D:\Escuela\Adaptacion Y rEPARA\Programacion orientada a objetos\CCD.jpg" >
+</body>
+</html>
+
+<font color="#1AFF00"> <span style="font-size:2.0em"> Curriculum Vitae: </font> <br> </span>
+ <a href="http://cvpablogonzalez.blogspot.com/2015/09/curriculum-vitae.html" target="_blank"> <font color="#1AFF00"> <span style="font-size:1.5em"> Pablo Gonzalez </font> </a> <br> </span>
+ <a href="http://ramirezfabian1995.blogspot.com.ar/" target="_blank"> <font color="#1AFF00"><span style="font-size:1.5em"> Ezequiel Ramirez </font> </a>  </span> <br>
+<a href="http://manueloscarromero.blogspot.com.ar/2015/09/curriculum-vitae.html" target="_blank">  <font color="#1AFF00"> <span style="font-size:1.5em" > Manuel Romero </font> </a>  </span> <br> <br> 

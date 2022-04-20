@@ -1,0 +1,5 @@
+<html>
+<head>
+<title> Index </title>
+<body background = "D:\Escuela\Adaptacion Y rEPARA\Programacion orientada a objetos\CCD.jpg" >
+<body leftmargin="20" topmargin="0" marginwidth="20" marginheight="0" > 
